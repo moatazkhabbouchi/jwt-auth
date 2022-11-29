@@ -1,0 +1,17 @@
+{
+  "name": "jwt-auth",
+  "version": "1.0.0",
+  "description": "JWT Authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moataz Khabbouchi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.20"
+  }
+}
